@@ -1,1 +1,1 @@
-coding comp
+# Solutions to kattis problems
